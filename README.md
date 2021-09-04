@@ -2,7 +2,7 @@
 - 👀 I’m interested in art and coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on coding with proffesionals
-- 📫 How to reach me ...
+- 📫 You can reach me on my Instagram account @code.swastika.official
 
 <!---
 SwastikaBhattacharya12/SwastikaBhattacharya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
