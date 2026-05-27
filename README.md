@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SwastikaBhattacharya
-- 💞️ I’m looking to collaborate on coding with proffesionals
+Founder mindset. AI tools. Viral product ideas. Building every day.
 
 <!---
 SwastikaBhattacharya12/SwastikaBhattacharya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
