@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SwastikaBhattacharya12
-- 👀 I’m interested in art and coding
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m @SwastikaBhattacharya
 - 💞️ I’m looking to collaborate on coding with proffesionals
-- 📫 You can reach me on my Instagram account @code.swastika.official
 
 <!---
 SwastikaBhattacharya12/SwastikaBhattacharya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
