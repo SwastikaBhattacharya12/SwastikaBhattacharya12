@@ -177,6 +177,16 @@ Artificial Intelligence • Machine Learning • Product Development • Entrepr
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SwastikaBhattacharya12/SwastikaBhattacharya12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 ## Connect
 
 <div align="center">
