@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SwastikaBhattacharya12/SwastikaBhattacharya12/main/assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/SwastikaBhattacharya12/SwastikaBhattacharya12/main/banner.png" width="100%" />
 
-<br>
+</div>
 
 # Swastika B.
 
