@@ -1,18 +1,21 @@
-# Hey, I'm Swastika 👋
+# Hi, I'm Swastika 👋
 
-Building AI-powered apps, viral internet concepts, and digital experiences.
+AI Developer • Product Builder • Future Tech Entrepreneur
 
-Currently working on:
-⚖️ Internet Court — an AI-powered social debate platform
+## Currently Building
 
-Interested in:
-- AI Products
-- UI/UX
-- Branding
-- Viral Growth
-- Startup Building
+- Axiom
+- AeroSim Pro
 
-<!---
-SwastikaBhattacharya12/SwastikaBhattacharya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Entrepreneurship
+- Aerospace Technology
+
+## Learning
+
+- Cloud Computing
+- System Design
+- Generative AI
