@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SwastikaBhattacharya12/SwastikaBhattacharya12/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/SwastikaBhattacharya12/SwastikaBhattacharya12/main/banner (2).png" width="100%" />
 
 </div>
 
